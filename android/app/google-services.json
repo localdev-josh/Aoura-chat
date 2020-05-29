@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "188701587748",
+    "firebase_url": "https://aoura-chat.firebaseio.com",
+    "project_id": "aoura-chat",
+    "storage_bucket": "aoura-chat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:188701587748:android:e83552df35fa8efc9c5bb1",
+        "android_client_info": {
+          "package_name": "com.example.aoura_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "188701587748-gcqphvp9kvl6ggul1f1cs7qk4g5gg6pt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.aoura_chat",
+            "certificate_hash": "513e017faf6350c833cc955cfcb1d2e43e8debeb"
+          }
+        },
+        {
+          "client_id": "188701587748-37kcsu7lnbji0tbicua42dtu24n13gim.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAK6TYolhvEWsF1YCQY0n6dPpY2JphUBKM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "188701587748-37kcsu7lnbji0tbicua42dtu24n13gim.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
